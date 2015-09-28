@@ -1,0 +1,13 @@
+setup.py
+AutoPause.egg-info/PKG-INFO
+AutoPause.egg-info/SOURCES.txt
+AutoPause.egg-info/dependency_links.txt
+AutoPause.egg-info/entry_points.txt
+AutoPause.egg-info/top_level.txt
+autopause/__init__.py
+autopause/common.py
+autopause/core.py
+autopause/gtkui.py
+autopause/webui.py
+autopause/data/autopause.js
+autopause/data/config.glade

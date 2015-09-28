@@ -1,0 +1,8 @@
+
+    [deluge.plugin.core]
+    AutoPause = autopause:CorePlugin
+    [deluge.plugin.gtkui]
+    AutoPause = autopause:GtkUIPlugin
+    [deluge.plugin.web]
+    AutoPause = autopause:WebUIPlugin
+    
